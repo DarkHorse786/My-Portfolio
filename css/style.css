@@ -522,6 +522,7 @@ h3.my-profession {
 .about .about-content .timeline .timeline-item {
     position: relative;
     padding-left: 35px;
+    padding-right: 35px;
     padding-bottom: 50px;
 }
 
