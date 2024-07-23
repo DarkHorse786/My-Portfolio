@@ -591,6 +591,7 @@ h3.my-profession {
     background-color: var(--bg-black-100);
     border: 1px solid var(--bg-black-50);
     border-radius: 10px;
+    height: 100%;
     padding: 30px 15px;
     text-align: center;
     transition: all 0.3s ease;
