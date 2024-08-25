@@ -716,7 +716,7 @@ h3.my-profession {
     margin-top: 15px;
 }
 
-.contact .contact-info-item p {
+.contact .contact-info-item p,.contact .contact-info-item p a {
     font-size: 16px;
     line-height: 25px;
     color: var(--text-black-700);
